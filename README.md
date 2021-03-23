@@ -14,6 +14,7 @@ A MERN stack app to keep track of online stuff, which you may want to view later
 - [Context API using useContext & useReducer hooks](https://reactjs.org/docs/context.html) - For state management
 - [React Router](https://reactrouter.com/) - For general routing & navigation
 - [Material-UI w/ lots of CSS customisations](https://material-ui.com/) - UI library
+- [Repo](https://github.com/VAMSI08/myList-frontend)
 
 #### Back-end
 
