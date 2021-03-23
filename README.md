@@ -1,10 +1,10 @@
-# ToViewList | MERN
+# myList | MERN
 
 A MERN stack app to keep track of online stuff, which you may want to view later.
 
 ## Demo
 
-[Deployed on Netlify (front-end) & Heroku (back-end)](https://toviewlist.netlify.app)
+[Deployed on Netlify (front-end) & Heroku (back-end)](https://.netlify.app)
 
 ## Built using
 
