@@ -50,14 +50,14 @@ Create a .env file in server directory and add the following:
 
 ```
 MONGODB_URI = "Your Mongo URI"
-PORT = 3005
+PORT = 5000
 SECRET = "Your JWT secret"
 
 ```
 
 #### Client:
 
-Open client/src/backendUrl.js & change "backend" variable to `"http://localhost:3005"`
+Open client/src/backendUrl.js & change "backend" variable to `"http://localhost:5000"`
 
 ```
 cd client
